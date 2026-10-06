@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>學校課表查詢系統</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <div class="logo-title">
+        <span class="badge">SCHOOL</span>
+        <h1>課表查詢系統</h1>
+      </div>
+      <div class="info-stats" id="stats-info">資料載入中...</div>
+    </header>
+
+    <div class="tab-list">
+      <button class="tab-btn active" data-mode="class">依班級查詢</button>
+      <button class="tab-btn" data-mode="teacher">依教師查詢</button>
+      <button class="tab-btn" data-mode="room">依教室查詢</button>
+    </div>
+
+    <div class="main-layout">
+      <!-- 左側側邊欄 -->
+      <aside class="sidebar">
+        <div class="search-box">
+          <input type="text" id="search-input" placeholder="搜尋關鍵字...">
+        </div>
+        <div class="item-list" id="sidebar-list">
+          <!-- 動態渲染清單 -->
+        </div>
+      </aside>
+
+      <!-- 右側課表內容 -->
+      <main class="content">
+        <div class="table-header">
+          <h2 id="current-title">請選擇查詢項目</h2>
+          <div class="meta-tags" id="current-meta"></div>
+        </div>
+
+        <div class="table-wrapper">
+          <table class="schedule-table">
+            <thead>
+              <tr>
+                <th>節次</th>
+                <th>星期一</th>
+                <th>星期二</th>
+                <th>星期三</th>
+                <th>星期四</th>
+                <th>星期五</th>
+              </tr>
+            </thead>
+            <tbody id="schedule-body">
+              <!-- 動態渲染 1~8 節 -->
+            </tbody>
+          </table>
+        </div>
+        
+        <div class="footer-note">
+          ＊點選課表內加底線的教師/班級/教室名稱，可直接跳轉查詢
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

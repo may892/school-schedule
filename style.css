@@ -1,0 +1,31 @@
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+body { background-color: #f4f6f9; color: #333; padding: 20px; }
+
+.container { max-width: 1200px; margin: 0 auto; }
+.header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+.logo-title { display: flex; align-items: center; gap: 12px; }
+.badge { background: #1e293b; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 14px; }
+.info-stats { font-size: 13px; color: #666; }
+
+.tab-list { display: flex; gap: 8px; margin-bottom: 16px; }
+.tab-btn { padding: 10px 20px; border: none; background: #e2e8f0; border-radius: 6px; cursor: pointer; font-weight: 500; }
+.tab-btn.active { background: #1e293b; color: white; }
+
+.main-layout { display: flex; gap: 20px; }
+.sidebar { width: 260px; background: white; padding: 16px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+.search-box input { width: 100%; padding: 8px 12px; border: 1px solid #cbd5e1; border-radius: 6px; margin-bottom: 12px; }
+.item-list { max-height: 500px; overflow-y: auto; display: flex; flex-direction: column; gap: 4px; }
+.item-btn { padding: 8px 12px; text-align: left; background: none; border: none; border-radius: 4px; cursor: pointer; }
+.item-btn:hover { background: #f1f5f9; }
+.item-btn.active { background: #2563eb; color: white; }
+
+.content { flex: 1; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+.table-header { margin-bottom: 16px; display: flex; justify-content: space-between; align-items: center; }
+.table-wrapper { overflow-x: auto; }
+.schedule-table { width: 100%; border-collapse: collapse; text-align: center; font-size: 14px; }
+.schedule-table th, .schedule-table td { border: 1px solid #e2e8f0; padding: 10px; height: 60px; vertical-align: middle; }
+.schedule-table th { background: #f8fafc; color: #475569; font-weight: 600; }
+
+.cell-subject { font-weight: bold; color: #1e293b; }
+.cell-link { color: #2563eb; text-decoration: underline; cursor: pointer; font-size: 13px; display: block; margin-top: 2px; }
+.footer-note { font-size: 12px; color: #64748b; margin-top: 12px; text-align: right; }
