@@ -2404,7 +2404,15 @@
     "subject": "彈性學習時間 III",
     "day": 3,
     "period": 4,
-    "teacher_name": "白利鍏、史偉恩",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "高二甲 H2A",
+    "subject": "彈性學習時間 III",
+    "day": 3,
+    "period": 4,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -2572,7 +2580,15 @@
     "subject": "數學輔導",
     "day": 5,
     "period": 8,
-    "teacher_name": "彭子權、程孟如",
+    "teacher_name": "彭子權",
+    "room": "分組四"
+  },
+  {
+    "class_name": "高二甲 H2A",
+    "subject": "數學輔導",
+    "day": 5,
+    "period": 8,
+    "teacher_name": "程孟如",
     "room": "分組四"
   },
   {
@@ -2612,7 +2628,15 @@
     "subject": "彈性學習時間 III",
     "day": 1,
     "period": 5,
-    "teacher_name": "張浚朋、劉心怡",
+    "teacher_name": "張浚朋",
+    "room": ""
+  },
+  {
+    "class_name": "高二乙 H2B",
+    "subject": "彈性學習時間 III",
+    "day": 1,
+    "period": 5,
+    "teacher_name": "劉心怡",
     "room": ""
   },
   {
@@ -2708,7 +2732,15 @@
     "subject": "英文文學選讀",
     "day": 2,
     "period": 8,
-    "teacher_name": "金瑞安、丹尼爾",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "高二乙 H2B",
+    "subject": "英文文學選讀",
+    "day": 2,
+    "period": 8,
+    "teacher_name": "丹尼爾",
     "room": ""
   },
   {
@@ -2956,7 +2988,15 @@
     "subject": "彈性學習時間 III",
     "day": 1,
     "period": 5,
-    "teacher_name": "張浚朋、劉心怡",
+    "teacher_name": "張浚朋",
+    "room": ""
+  },
+  {
+    "class_name": "高二丙 H2C",
+    "subject": "彈性學習時間 III",
+    "day": 1,
+    "period": 5,
+    "teacher_name": "劉心怡",
     "room": ""
   },
   {
@@ -3044,7 +3084,15 @@
     "subject": "英文文學選讀",
     "day": 2,
     "period": 8,
-    "teacher_name": "白利鍏、史偉恩",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "高二丙 H2C",
+    "subject": "英文文學選讀",
+    "day": 2,
+    "period": 8,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -3404,7 +3452,15 @@
     "subject": "彈性學習時間 III",
     "day": 3,
     "period": 5,
-    "teacher_name": "白利鍏、史偉恩",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "高二丁 H2D",
+    "subject": "彈性學習時間 III",
+    "day": 3,
+    "period": 5,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -3740,7 +3796,15 @@
     "subject": "彈性學習時間 III",
     "day": 3,
     "period": 5,
-    "teacher_name": "金瑞安、丹尼爾",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "高二戊 H2E",
+    "subject": "彈性學習時間 III",
+    "day": 3,
+    "period": 5,
+    "teacher_name": "丹尼爾",
     "room": ""
   },
   {
@@ -4068,7 +4132,55 @@
     "subject": "專題實作 III",
     "day": 3,
     "period": 6,
-    "teacher_name": "石婉榮、施義炳、蔡惇仁、沈智修、蘇彥華、林怡潓、林志勳",
+    "teacher_name": "石婉榮",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 6,
+    "teacher_name": "施義炳",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 6,
+    "teacher_name": "蔡惇仁",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 6,
+    "teacher_name": "沈智修",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 6,
+    "teacher_name": "蘇彥華",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 6,
+    "teacher_name": "林怡潓",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 6,
+    "teacher_name": "林志勳",
     "room": ""
   },
   {
@@ -4076,7 +4188,55 @@
     "subject": "專題實作 III",
     "day": 3,
     "period": 7,
-    "teacher_name": "石婉榮、施義炳、蔡惇仁、沈智修、蘇彥華、林怡潓、林志勳",
+    "teacher_name": "石婉榮",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "施義炳",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "蔡惇仁",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "沈智修",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "蘇彥華",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "林怡潓",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題實作 III",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "林志勳",
     "room": ""
   },
   {
@@ -4084,7 +4244,55 @@
     "subject": "專題輔導",
     "day": 3,
     "period": 8,
-    "teacher_name": "石婉榮、施義炳、蔡惇仁、沈智修、蘇彥華、林怡潓、林志勳",
+    "teacher_name": "石婉榮",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題輔導",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "施義炳",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題輔導",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "蔡惇仁",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題輔導",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "沈智修",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題輔導",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "蘇彥華",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題輔導",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "林怡潓",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "專題輔導",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "林志勳",
     "room": ""
   },
   {
@@ -4308,7 +4516,15 @@
     "subject": "英文文學選讀",
     "day": 1,
     "period": 8,
-    "teacher_name": "馬丹尼、丹尼爾",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "高一甲 H1A",
+    "subject": "英文文學選讀",
+    "day": 1,
+    "period": 8,
+    "teacher_name": "丹尼爾",
     "room": ""
   },
   {
@@ -4708,7 +4924,15 @@
     "subject": "英文文學選讀",
     "day": 2,
     "period": 8,
-    "teacher_name": "馬丹尼、布提末",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "高一乙 H1B",
+    "subject": "英文文學選讀",
+    "day": 2,
+    "period": 8,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -5076,7 +5300,15 @@
     "subject": "英文文學選讀",
     "day": 3,
     "period": 8,
-    "teacher_name": "白利鍏、布提末",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "高一丙 H1C",
+    "subject": "英文文學選讀",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -5340,7 +5572,15 @@
     "subject": "彈性學習時間 I",
     "day": 2,
     "period": 7,
-    "teacher_name": "金瑞安、布提末",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "高一丁 H1D",
+    "subject": "彈性學習時間 I",
+    "day": 2,
+    "period": 7,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -5612,7 +5852,15 @@
     "subject": "彈性學習時間 I",
     "day": 1,
     "period": 5,
-    "teacher_name": "金瑞安、布提末",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "高一戊 H1E",
+    "subject": "彈性學習時間 I",
+    "day": 1,
+    "period": 5,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -6068,7 +6316,15 @@
     "subject": "彈性學習時間 I",
     "day": 4,
     "period": 2,
-    "teacher_name": "丹尼爾、史偉恩",
+    "teacher_name": "丹尼爾",
+    "room": ""
+  },
+  {
+    "class_name": "高一己 H1F",
+    "subject": "彈性學習時間 I",
+    "day": 4,
+    "period": 2,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -6252,7 +6508,23 @@
     "subject": "音樂",
     "day": 2,
     "period": 1,
-    "teacher_name": "馬丹尼、裴蛟龍、布提末",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "音樂",
+    "day": 2,
+    "period": 1,
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "音樂",
+    "day": 2,
+    "period": 1,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -6260,7 +6532,23 @@
     "subject": "表演藝術",
     "day": 2,
     "period": 2,
-    "teacher_name": "馬丹尼、裴蛟龍、布提末",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 2,
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 2,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -6332,7 +6620,23 @@
     "subject": "彈性學習 A",
     "day": 3,
     "period": 3,
-    "teacher_name": "馬丹尼、李佩芳、季潼明",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "彈性學習 A",
+    "day": 3,
+    "period": 3,
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "彈性學習 A",
+    "day": 3,
+    "period": 3,
+    "teacher_name": "季潼明",
     "room": ""
   },
   {
@@ -6340,7 +6644,23 @@
     "subject": "彈性學習 A",
     "day": 3,
     "period": 4,
-    "teacher_name": "馬丹尼、李佩芳、季潼明",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "彈性學習 A",
+    "day": 3,
+    "period": 4,
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "彈性學習 A",
+    "day": 3,
+    "period": 4,
+    "teacher_name": "季潼明",
     "room": ""
   },
   {
@@ -6444,7 +6764,23 @@
     "subject": "彈性學習 B",
     "day": 5,
     "period": 1,
-    "teacher_name": "金瑞安、白利鍏、陳漢玉",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 1,
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 1,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -6452,7 +6788,23 @@
     "subject": "彈性學習 B",
     "day": 5,
     "period": 2,
-    "teacher_name": "金瑞安、白利鍏、陳漢玉",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 2,
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國三甲 J3A",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 2,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -6572,7 +6924,15 @@
     "subject": "音樂",
     "day": 2,
     "period": 1,
-    "teacher_name": "丹尼爾、陳漢玉",
+    "teacher_name": "丹尼爾",
+    "room": ""
+  },
+  {
+    "class_name": "國三乙 J3B",
+    "subject": "音樂",
+    "day": 2,
+    "period": 1,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -6580,7 +6940,15 @@
     "subject": "表演藝術",
     "day": 2,
     "period": 2,
-    "teacher_name": "丹尼爾、陳漢玉",
+    "teacher_name": "丹尼爾",
+    "room": ""
+  },
+  {
+    "class_name": "國三乙 J3B",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 2,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -6652,7 +7020,15 @@
     "subject": "彈性學習 A",
     "day": 3,
     "period": 3,
-    "teacher_name": "裴蛟龍、田瑞名",
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國三乙 J3B",
+    "subject": "彈性學習 A",
+    "day": 3,
+    "period": 3,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -6660,7 +7036,15 @@
     "subject": "彈性學習 A",
     "day": 3,
     "period": 4,
-    "teacher_name": "裴蛟龍、田瑞名",
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國三乙 J3B",
+    "subject": "彈性學習 A",
+    "day": 3,
+    "period": 4,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -6764,7 +7148,15 @@
     "subject": "彈性學習 B",
     "day": 5,
     "period": 1,
-    "teacher_name": "馬丹尼、季潼明",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國三乙 J3B",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 1,
+    "teacher_name": "季潼明",
     "room": ""
   },
   {
@@ -6772,7 +7164,15 @@
     "subject": "彈性學習 B",
     "day": 5,
     "period": 2,
-    "teacher_name": "馬丹尼、季潼明",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國三乙 J3B",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 2,
+    "teacher_name": "季潼明",
     "room": ""
   },
   {
@@ -6892,7 +7292,15 @@
     "subject": "音樂",
     "day": 2,
     "period": 1,
-    "teacher_name": "金瑞安、田瑞名",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國三丙 J3C",
+    "subject": "音樂",
+    "day": 2,
+    "period": 1,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -6900,7 +7308,15 @@
     "subject": "表演藝術",
     "day": 2,
     "period": 2,
-    "teacher_name": "金瑞安、田瑞名",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國三丙 J3C",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 2,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -6972,7 +7388,15 @@
     "subject": "彈性學習 A",
     "day": 3,
     "period": 3,
-    "teacher_name": "金瑞安、布提末",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國三丙 J3C",
+    "subject": "彈性學習 A",
+    "day": 3,
+    "period": 3,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -6980,7 +7404,15 @@
     "subject": "彈性學習 A",
     "day": 3,
     "period": 4,
-    "teacher_name": "金瑞安、布提末",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國三丙 J3C",
+    "subject": "彈性學習 A",
+    "day": 3,
+    "period": 4,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -7084,7 +7516,15 @@
     "subject": "彈性學習 B",
     "day": 5,
     "period": 1,
-    "teacher_name": "李佩芳、布提末",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國三丙 J3C",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 1,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -7092,7 +7532,15 @@
     "subject": "彈性學習 B",
     "day": 5,
     "period": 2,
-    "teacher_name": "李佩芳、布提末",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國三丙 J3C",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 2,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -7148,7 +7596,23 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 1,
-    "teacher_name": "李佩芳、莫達、安里斯",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國三丁 J3D",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 1,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國三丁 J3D",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 1,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -7156,7 +7620,23 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 2,
-    "teacher_name": "李佩芳、莫達、安里斯",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國三丁 J3D",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 2,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國三丁 J3D",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 2,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -7260,7 +7740,23 @@
     "subject": "彈性學習 A",
     "day": 2,
     "period": 7,
-    "teacher_name": "李佩芳、莫達、安里斯",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國三丁 J3D",
+    "subject": "彈性學習 A",
+    "day": 2,
+    "period": 7,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國三丁 J3D",
+    "subject": "彈性學習 A",
+    "day": 2,
+    "period": 7,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -7268,7 +7764,23 @@
     "subject": "英語輔導",
     "day": 2,
     "period": 8,
-    "teacher_name": "李佩芳、莫達、安里斯",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國三丁 J3D",
+    "subject": "英語輔導",
+    "day": 2,
+    "period": 8,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國三丁 J3D",
+    "subject": "英語輔導",
+    "day": 2,
+    "period": 8,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -7468,7 +7980,15 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 1,
-    "teacher_name": "史都華、張鳳元",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國三戊 J3E",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 1,
+    "teacher_name": "張鳳元",
     "room": ""
   },
   {
@@ -7476,7 +7996,15 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 2,
-    "teacher_name": "史都華、張鳳元",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國三戊 J3E",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 2,
+    "teacher_name": "張鳳元",
     "room": ""
   },
   {
@@ -7580,7 +8108,15 @@
     "subject": "彈性學習 A",
     "day": 2,
     "period": 7,
-    "teacher_name": "史都華、張鳳元",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國三戊 J3E",
+    "subject": "彈性學習 A",
+    "day": 2,
+    "period": 7,
+    "teacher_name": "張鳳元",
     "room": ""
   },
   {
@@ -7588,7 +8124,15 @@
     "subject": "英語輔導",
     "day": 2,
     "period": 8,
-    "teacher_name": "史都華、張鳳元",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國三戊 J3E",
+    "subject": "英語輔導",
+    "day": 2,
+    "period": 8,
+    "teacher_name": "張鳳元",
     "room": ""
   },
   {
@@ -7820,7 +8364,23 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 5,
-    "teacher_name": "史都華、張鳳元、陳漢玉",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國三己 J3F",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 5,
+    "teacher_name": "張鳳元",
+    "room": ""
+  },
+  {
+    "class_name": "國三己 J3F",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 5,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -7828,7 +8388,23 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 6,
-    "teacher_name": "史都華、張鳳元、陳漢玉",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國三己 J3F",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 6,
+    "teacher_name": "張鳳元",
+    "room": ""
+  },
+  {
+    "class_name": "國三己 J3F",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 6,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -8028,7 +8604,23 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 7,
-    "teacher_name": "史都華、張鳳元、陳漢玉",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國三己 J3F",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 7,
+    "teacher_name": "張鳳元",
+    "room": ""
+  },
+  {
+    "class_name": "國三己 J3F",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 7,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -8036,7 +8628,23 @@
     "subject": "英語輔導",
     "day": 4,
     "period": 8,
-    "teacher_name": "史都華、張鳳元、陳漢玉",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國三己 J3F",
+    "subject": "英語輔導",
+    "day": 4,
+    "period": 8,
+    "teacher_name": "張鳳元",
+    "room": ""
+  },
+  {
+    "class_name": "國三己 J3F",
+    "subject": "英語輔導",
+    "day": 4,
+    "period": 8,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -8140,7 +8748,15 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 5,
-    "teacher_name": "莫達、安里斯",
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國三庚 J3G",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 5,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -8148,7 +8764,15 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 6,
-    "teacher_name": "莫達、安里斯",
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國三庚 J3G",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 6,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -8348,7 +8972,15 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 7,
-    "teacher_name": "莫達、安里斯",
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國三庚 J3G",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 7,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -8356,7 +8988,15 @@
     "subject": "英語輔導",
     "day": 4,
     "period": 8,
-    "teacher_name": "莫達、安里斯",
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國三庚 J3G",
+    "subject": "英語輔導",
+    "day": 4,
+    "period": 8,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -8444,7 +9084,23 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 3,
-    "teacher_name": "金瑞安、布提末、田瑞名",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 3,
+    "teacher_name": "布提末",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 3,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -8452,7 +9108,23 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 4,
-    "teacher_name": "金瑞安、布提末、田瑞名",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 4,
+    "teacher_name": "布提末",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 4,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -8532,7 +9204,23 @@
     "subject": "音樂",
     "day": 2,
     "period": 5,
-    "teacher_name": "馬丹尼、白利鍏、裴蛟龍",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "音樂",
+    "day": 2,
+    "period": 5,
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "音樂",
+    "day": 2,
+    "period": 5,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -8540,7 +9228,23 @@
     "subject": "表演藝術",
     "day": 2,
     "period": 6,
-    "teacher_name": "馬丹尼、白利鍏、裴蛟龍",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 6,
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 6,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -8612,7 +9316,23 @@
     "subject": "彈性學習 B",
     "day": 3,
     "period": 7,
-    "teacher_name": "金瑞安、丹尼爾、裴蛟龍",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "彈性學習 B",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "丹尼爾",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "彈性學習 B",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -8620,7 +9340,23 @@
     "subject": "班群活動",
     "day": 3,
     "period": 8,
-    "teacher_name": "金瑞安、丹尼爾、裴蛟龍",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "班群活動",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "丹尼爾",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "班群活動",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -8676,7 +9412,23 @@
     "subject": "童軍",
     "day": 4,
     "period": 7,
-    "teacher_name": "馬丹尼、白利鍏、丹尼爾",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "童軍",
+    "day": 4,
+    "period": 7,
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "童軍",
+    "day": 4,
+    "period": 7,
+    "teacher_name": "丹尼爾",
     "room": ""
   },
   {
@@ -8684,7 +9436,23 @@
     "subject": "班群活動",
     "day": 4,
     "period": 8,
-    "teacher_name": "馬丹尼、白利鍏、丹尼爾",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "班群活動",
+    "day": 4,
+    "period": 8,
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "班群活動",
+    "day": 4,
+    "period": 8,
+    "teacher_name": "丹尼爾",
     "room": ""
   },
   {
@@ -8708,7 +9476,23 @@
     "subject": "資訊科技",
     "day": 5,
     "period": 3,
-    "teacher_name": "季潼明、裴蛟龍、史偉恩",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "資訊科技",
+    "day": 5,
+    "period": 3,
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "資訊科技",
+    "day": 5,
+    "period": 3,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -8716,7 +9500,23 @@
     "subject": "資訊科技",
     "day": 5,
     "period": 4,
-    "teacher_name": "季潼明、裴蛟龍、史偉恩",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "資訊科技",
+    "day": 5,
+    "period": 4,
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國二甲 J2A",
+    "subject": "資訊科技",
+    "day": 5,
+    "period": 4,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -8772,7 +9572,15 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 3,
-    "teacher_name": "裴蛟龍、陳漢玉",
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國二乙 J2B",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 3,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -8780,7 +9588,15 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 4,
-    "teacher_name": "裴蛟龍、陳漢玉",
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國二乙 J2B",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 4,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -8852,7 +9668,15 @@
     "subject": "音樂",
     "day": 2,
     "period": 5,
-    "teacher_name": "史都華、史偉恩",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國二乙 J2B",
+    "subject": "音樂",
+    "day": 2,
+    "period": 5,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -8860,7 +9684,15 @@
     "subject": "表演藝術",
     "day": 2,
     "period": 6,
-    "teacher_name": "史都華、史偉恩",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國二乙 J2B",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 6,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -8932,7 +9764,15 @@
     "subject": "彈性學習 B",
     "day": 3,
     "period": 7,
-    "teacher_name": "馬丹尼、季潼明",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國二乙 J2B",
+    "subject": "彈性學習 B",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "季潼明",
     "room": ""
   },
   {
@@ -8940,7 +9780,15 @@
     "subject": "班群活動",
     "day": 3,
     "period": 8,
-    "teacher_name": "馬丹尼、季潼明",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國二乙 J2B",
+    "subject": "班群活動",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "季潼明",
     "room": ""
   },
   {
@@ -9012,7 +9860,15 @@
     "subject": "童軍",
     "day": 4,
     "period": 7,
-    "teacher_name": "季潼明、布提末",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國二乙 J2B",
+    "subject": "童軍",
+    "day": 4,
+    "period": 7,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -9020,7 +9876,15 @@
     "subject": "班群活動",
     "day": 4,
     "period": 8,
-    "teacher_name": "季潼明、布提末",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國二乙 J2B",
+    "subject": "班群活動",
+    "day": 4,
+    "period": 8,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -9044,7 +9908,15 @@
     "subject": "資訊科技",
     "day": 5,
     "period": 3,
-    "teacher_name": "丹尼爾、布提末",
+    "teacher_name": "丹尼爾",
+    "room": ""
+  },
+  {
+    "class_name": "國二乙 J2B",
+    "subject": "資訊科技",
+    "day": 5,
+    "period": 3,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -9052,7 +9924,15 @@
     "subject": "資訊科技",
     "day": 5,
     "period": 4,
-    "teacher_name": "丹尼爾、布提末",
+    "teacher_name": "丹尼爾",
+    "room": ""
+  },
+  {
+    "class_name": "國二乙 J2B",
+    "subject": "資訊科技",
+    "day": 5,
+    "period": 4,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -9108,7 +9988,15 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 3,
-    "teacher_name": "馬丹尼、安里斯",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國二丙 J2C",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 3,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -9116,7 +10004,15 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 4,
-    "teacher_name": "馬丹尼、安里斯",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國二丙 J2C",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 4,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -9188,7 +10084,15 @@
     "subject": "音樂",
     "day": 2,
     "period": 5,
-    "teacher_name": "金瑞安、張鳳元",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國二丙 J2C",
+    "subject": "音樂",
+    "day": 2,
+    "period": 5,
+    "teacher_name": "張鳳元",
     "room": ""
   },
   {
@@ -9196,7 +10100,15 @@
     "subject": "表演藝術",
     "day": 2,
     "period": 6,
-    "teacher_name": "金瑞安、張鳳元",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國二丙 J2C",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 6,
+    "teacher_name": "張鳳元",
     "room": ""
   },
   {
@@ -9268,7 +10180,15 @@
     "subject": "彈性學習 B",
     "day": 3,
     "period": 7,
-    "teacher_name": "史都華、安里斯",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國二丙 J2C",
+    "subject": "彈性學習 B",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -9276,7 +10196,15 @@
     "subject": "班群活動",
     "day": 3,
     "period": 8,
-    "teacher_name": "史都華、安里斯",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國二丙 J2C",
+    "subject": "班群活動",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -9348,7 +10276,15 @@
     "subject": "童軍",
     "day": 4,
     "period": 7,
-    "teacher_name": "李佩芳、裴蛟龍",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國二丙 J2C",
+    "subject": "童軍",
+    "day": 4,
+    "period": 7,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -9356,7 +10292,15 @@
     "subject": "班群活動",
     "day": 4,
     "period": 8,
-    "teacher_name": "李佩芳、裴蛟龍",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國二丙 J2C",
+    "subject": "班群活動",
+    "day": 4,
+    "period": 8,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -9380,7 +10324,15 @@
     "subject": "資訊科技",
     "day": 5,
     "period": 3,
-    "teacher_name": "史都華、馬丹尼",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國二丙 J2C",
+    "subject": "資訊科技",
+    "day": 5,
+    "period": 3,
+    "teacher_name": "馬丹尼",
     "room": ""
   },
   {
@@ -9388,7 +10340,15 @@
     "subject": "資訊科技",
     "day": 5,
     "period": 4,
-    "teacher_name": "史都華、馬丹尼",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國二丙 J2C",
+    "subject": "資訊科技",
+    "day": 5,
+    "period": 4,
+    "teacher_name": "馬丹尼",
     "room": ""
   },
   {
@@ -9428,7 +10388,23 @@
     "subject": "資訊科技",
     "day": 1,
     "period": 1,
-    "teacher_name": "陳浩津、沈智修、王倚之",
+    "teacher_name": "陳浩津",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 1,
+    "teacher_name": "沈智修",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 1,
+    "teacher_name": "王倚之",
     "room": ""
   },
   {
@@ -9436,7 +10412,23 @@
     "subject": "資訊科技",
     "day": 1,
     "period": 2,
-    "teacher_name": "陳浩津、沈智修、王倚之",
+    "teacher_name": "陳浩津",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 2,
+    "teacher_name": "沈智修",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 2,
+    "teacher_name": "王倚之",
     "room": ""
   },
   {
@@ -9444,7 +10436,23 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 3,
-    "teacher_name": "丹尼爾、莫達、史偉恩",
+    "teacher_name": "丹尼爾",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 3,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 3,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -9452,7 +10460,23 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 4,
-    "teacher_name": "丹尼爾、莫達、史偉恩",
+    "teacher_name": "丹尼爾",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 4,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 4,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -9756,7 +10780,23 @@
     "subject": "彈性學習 A",
     "day": 5,
     "period": 7,
-    "teacher_name": "丹尼爾、莫達、史偉恩",
+    "teacher_name": "丹尼爾",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "彈性學習 A",
+    "day": 5,
+    "period": 7,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "彈性學習 A",
+    "day": 5,
+    "period": 7,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -9764,7 +10804,23 @@
     "subject": "空白課程",
     "day": 5,
     "period": 8,
-    "teacher_name": "丹尼爾、莫達、史偉恩",
+    "teacher_name": "丹尼爾",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "空白課程",
+    "day": 5,
+    "period": 8,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國二丁 J2D",
+    "subject": "空白課程",
+    "day": 5,
+    "period": 8,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -9772,7 +10828,23 @@
     "subject": "資訊科技",
     "day": 1,
     "period": 1,
-    "teacher_name": "陳浩津、沈智修、王倚之",
+    "teacher_name": "陳浩津",
+    "room": ""
+  },
+  {
+    "class_name": "國二戊 J2E",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 1,
+    "teacher_name": "沈智修",
+    "room": ""
+  },
+  {
+    "class_name": "國二戊 J2E",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 1,
+    "teacher_name": "王倚之",
     "room": ""
   },
   {
@@ -9780,7 +10852,23 @@
     "subject": "資訊科技",
     "day": 1,
     "period": 2,
-    "teacher_name": "陳浩津、沈智修、王倚之",
+    "teacher_name": "陳浩津",
+    "room": ""
+  },
+  {
+    "class_name": "國二戊 J2E",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 2,
+    "teacher_name": "沈智修",
+    "room": ""
+  },
+  {
+    "class_name": "國二戊 J2E",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 2,
+    "teacher_name": "王倚之",
     "room": ""
   },
   {
@@ -9788,7 +10876,15 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 3,
-    "teacher_name": "季潼明、白利鍏",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國二戊 J2E",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 3,
+    "teacher_name": "白利鍏",
     "room": ""
   },
   {
@@ -9796,7 +10892,15 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 4,
-    "teacher_name": "季潼明、白利鍏",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國二戊 J2E",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 4,
+    "teacher_name": "白利鍏",
     "room": ""
   },
   {
@@ -10100,7 +11204,15 @@
     "subject": "彈性學習 A",
     "day": 5,
     "period": 7,
-    "teacher_name": "季潼明、白利鍏",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國二戊 J2E",
+    "subject": "彈性學習 A",
+    "day": 5,
+    "period": 7,
+    "teacher_name": "白利鍏",
     "room": ""
   },
   {
@@ -10108,7 +11220,15 @@
     "subject": "空白課程",
     "day": 5,
     "period": 8,
-    "teacher_name": "季潼明、白利鍏",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國二戊 J2E",
+    "subject": "空白課程",
+    "day": 5,
+    "period": 8,
+    "teacher_name": "白利鍏",
     "room": ""
   },
   {
@@ -10132,7 +11252,23 @@
     "subject": "資訊科技",
     "day": 1,
     "period": 3,
-    "teacher_name": "陳浩津、沈智修、王倚之",
+    "teacher_name": "陳浩津",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 3,
+    "teacher_name": "沈智修",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 3,
+    "teacher_name": "王倚之",
     "room": ""
   },
   {
@@ -10140,7 +11276,23 @@
     "subject": "資訊科技",
     "day": 1,
     "period": 4,
-    "teacher_name": "陳浩津、沈智修、王倚之",
+    "teacher_name": "陳浩津",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 4,
+    "teacher_name": "沈智修",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 4,
+    "teacher_name": "王倚之",
     "room": ""
   },
   {
@@ -10180,7 +11332,23 @@
     "subject": "彈性學習 A",
     "day": 2,
     "period": 1,
-    "teacher_name": "李佩芳、莫達、史偉恩",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "彈性學習 A",
+    "day": 2,
+    "period": 1,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "彈性學習 A",
+    "day": 2,
+    "period": 1,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -10188,7 +11356,23 @@
     "subject": "視覺藝術",
     "day": 2,
     "period": 2,
-    "teacher_name": "李佩芳、莫達、史偉恩",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "視覺藝術",
+    "day": 2,
+    "period": 2,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "視覺藝術",
+    "day": 2,
+    "period": 2,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -10348,7 +11532,23 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 5,
-    "teacher_name": "李佩芳、莫達、史偉恩",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 5,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 5,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -10356,7 +11556,23 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 6,
-    "teacher_name": "李佩芳、莫達、史偉恩",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 6,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國二己 J2F",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 6,
+    "teacher_name": "史偉恩",
     "room": ""
   },
   {
@@ -10460,7 +11676,23 @@
     "subject": "資訊科技",
     "day": 1,
     "period": 3,
-    "teacher_name": "陳浩津、沈智修、王倚之",
+    "teacher_name": "陳浩津",
+    "room": ""
+  },
+  {
+    "class_name": "國二庚 J2G",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 3,
+    "teacher_name": "沈智修",
+    "room": ""
+  },
+  {
+    "class_name": "國二庚 J2G",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 3,
+    "teacher_name": "王倚之",
     "room": ""
   },
   {
@@ -10468,7 +11700,23 @@
     "subject": "資訊科技",
     "day": 1,
     "period": 4,
-    "teacher_name": "陳浩津、沈智修、王倚之",
+    "teacher_name": "陳浩津",
+    "room": ""
+  },
+  {
+    "class_name": "國二庚 J2G",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 4,
+    "teacher_name": "沈智修",
+    "room": ""
+  },
+  {
+    "class_name": "國二庚 J2G",
+    "subject": "資訊科技",
+    "day": 1,
+    "period": 4,
+    "teacher_name": "王倚之",
     "room": ""
   },
   {
@@ -10508,7 +11756,15 @@
     "subject": "彈性學習 A",
     "day": 2,
     "period": 1,
-    "teacher_name": "史都華、張鳳元",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國二庚 J2G",
+    "subject": "彈性學習 A",
+    "day": 2,
+    "period": 1,
+    "teacher_name": "張鳳元",
     "room": ""
   },
   {
@@ -10516,7 +11772,15 @@
     "subject": "視覺藝術",
     "day": 2,
     "period": 2,
-    "teacher_name": "史都華、張鳳元",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國二庚 J2G",
+    "subject": "視覺藝術",
+    "day": 2,
+    "period": 2,
+    "teacher_name": "張鳳元",
     "room": ""
   },
   {
@@ -10692,7 +11956,15 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 5,
-    "teacher_name": "史都華、張鳳元",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國二庚 J2G",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 5,
+    "teacher_name": "張鳳元",
     "room": ""
   },
   {
@@ -10700,7 +11972,15 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 6,
-    "teacher_name": "史都華、張鳳元",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國二庚 J2G",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 6,
+    "teacher_name": "張鳳元",
     "room": ""
   },
   {
@@ -10788,7 +12068,23 @@
     "subject": "音樂",
     "day": 1,
     "period": 1,
-    "teacher_name": "裴蛟龍、史偉恩、布提末",
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "音樂",
+    "day": 1,
+    "period": 1,
+    "teacher_name": "史偉恩",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "音樂",
+    "day": 1,
+    "period": 1,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -10796,7 +12092,23 @@
     "subject": "視覺藝術",
     "day": 1,
     "period": 2,
-    "teacher_name": "裴蛟龍、史偉恩、布提末",
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "視覺藝術",
+    "day": 1,
+    "period": 2,
+    "teacher_name": "史偉恩",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "視覺藝術",
+    "day": 1,
+    "period": 2,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -10868,7 +12180,23 @@
     "subject": "表演藝術",
     "day": 2,
     "period": 3,
-    "teacher_name": "季潼明、金瑞安、丹尼爾",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 3,
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 3,
+    "teacher_name": "丹尼爾",
     "room": ""
   },
   {
@@ -10876,7 +12204,23 @@
     "subject": "童軍",
     "day": 2,
     "period": 4,
-    "teacher_name": "季潼明、金瑞安、丹尼爾",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "童軍",
+    "day": 2,
+    "period": 4,
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "童軍",
+    "day": 2,
+    "period": 4,
+    "teacher_name": "丹尼爾",
     "room": ""
   },
   {
@@ -10916,7 +12260,23 @@
     "subject": "生活科技 A",
     "day": 3,
     "period": 1,
-    "teacher_name": "馬丹尼、李佩芳、裴蛟龍",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 1,
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 1,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -10924,7 +12284,23 @@
     "subject": "生活科技 A",
     "day": 3,
     "period": 2,
-    "teacher_name": "馬丹尼、李佩芳、裴蛟龍",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 2,
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 2,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -10988,7 +12364,23 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 1,
-    "teacher_name": "金瑞安、裴蛟龍、陳漢玉",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 1,
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 1,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -10996,7 +12388,23 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 2,
-    "teacher_name": "金瑞安、裴蛟龍、陳漢玉",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 2,
+    "teacher_name": "裴蛟龍",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 2,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -11100,7 +12508,23 @@
     "subject": "彈性學習 B",
     "day": 5,
     "period": 7,
-    "teacher_name": "馬丹尼、李佩芳、陳漢玉",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 7,
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 7,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -11108,7 +12532,23 @@
     "subject": "空白課程",
     "day": 5,
     "period": 8,
-    "teacher_name": "馬丹尼、李佩芳、陳漢玉",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "空白課程",
+    "day": 5,
+    "period": 8,
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國一甲 J1A",
+    "subject": "空白課程",
+    "day": 5,
+    "period": 8,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -11116,7 +12556,15 @@
     "subject": "音樂",
     "day": 1,
     "period": 1,
-    "teacher_name": "馬丹尼、丹尼爾",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國一乙 J1B",
+    "subject": "音樂",
+    "day": 1,
+    "period": 1,
+    "teacher_name": "丹尼爾",
     "room": ""
   },
   {
@@ -11124,7 +12572,15 @@
     "subject": "視覺藝術",
     "day": 1,
     "period": 2,
-    "teacher_name": "馬丹尼、丹尼爾",
+    "teacher_name": "馬丹尼",
+    "room": ""
+  },
+  {
+    "class_name": "國一乙 J1B",
+    "subject": "視覺藝術",
+    "day": 1,
+    "period": 2,
+    "teacher_name": "丹尼爾",
     "room": ""
   },
   {
@@ -11196,7 +12652,15 @@
     "subject": "表演藝術",
     "day": 2,
     "period": 3,
-    "teacher_name": "史偉恩、安里斯",
+    "teacher_name": "史偉恩",
+    "room": ""
+  },
+  {
+    "class_name": "國一乙 J1B",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 3,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -11204,7 +12668,15 @@
     "subject": "童軍",
     "day": 2,
     "period": 4,
-    "teacher_name": "史偉恩、安里斯",
+    "teacher_name": "史偉恩",
+    "room": ""
+  },
+  {
+    "class_name": "國一乙 J1B",
+    "subject": "童軍",
+    "day": 2,
+    "period": 4,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -11244,7 +12716,15 @@
     "subject": "生活科技 A",
     "day": 3,
     "period": 1,
-    "teacher_name": "史都華、季潼明",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國一乙 J1B",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 1,
+    "teacher_name": "季潼明",
     "room": ""
   },
   {
@@ -11252,7 +12732,15 @@
     "subject": "生活科技 A",
     "day": 3,
     "period": 2,
-    "teacher_name": "史都華、季潼明",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國一乙 J1B",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 2,
+    "teacher_name": "季潼明",
     "room": ""
   },
   {
@@ -11308,7 +12796,15 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 1,
-    "teacher_name": "季潼明、安里斯",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國一乙 J1B",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 1,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -11316,7 +12812,15 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 2,
-    "teacher_name": "季潼明、安里斯",
+    "teacher_name": "季潼明",
+    "room": ""
+  },
+  {
+    "class_name": "國一乙 J1B",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 2,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -11420,7 +12924,15 @@
     "subject": "彈性學習 B",
     "day": 5,
     "period": 7,
-    "teacher_name": "金瑞安、裴蛟龍",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國一乙 J1B",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 7,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -11428,7 +12940,15 @@
     "subject": "空白課程",
     "day": 5,
     "period": 8,
-    "teacher_name": "金瑞安、裴蛟龍",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國一乙 J1B",
+    "subject": "空白課程",
+    "day": 5,
+    "period": 8,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -11436,7 +12956,15 @@
     "subject": "音樂",
     "day": 1,
     "period": 1,
-    "teacher_name": "白利鍏、田瑞名",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國一丙 J1C",
+    "subject": "音樂",
+    "day": 1,
+    "period": 1,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -11444,7 +12972,15 @@
     "subject": "視覺藝術",
     "day": 1,
     "period": 2,
-    "teacher_name": "白利鍏、田瑞名",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國一丙 J1C",
+    "subject": "視覺藝術",
+    "day": 1,
+    "period": 2,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -11524,7 +13060,15 @@
     "subject": "表演藝術",
     "day": 2,
     "period": 3,
-    "teacher_name": "李佩芳、裴蛟龍",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國一丙 J1C",
+    "subject": "表演藝術",
+    "day": 2,
+    "period": 3,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -11532,7 +13076,15 @@
     "subject": "童軍",
     "day": 2,
     "period": 4,
-    "teacher_name": "李佩芳、裴蛟龍",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國一丙 J1C",
+    "subject": "童軍",
+    "day": 2,
+    "period": 4,
+    "teacher_name": "裴蛟龍",
     "room": ""
   },
   {
@@ -11572,7 +13124,15 @@
     "subject": "生活科技 A",
     "day": 3,
     "period": 1,
-    "teacher_name": "金瑞安、田瑞名",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國一丙 J1C",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 1,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -11580,7 +13140,15 @@
     "subject": "生活科技 A",
     "day": 3,
     "period": 2,
-    "teacher_name": "金瑞安、田瑞名",
+    "teacher_name": "金瑞安",
+    "room": ""
+  },
+  {
+    "class_name": "國一丙 J1C",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 2,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -11636,7 +13204,15 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 1,
-    "teacher_name": "白利鍏、田瑞名",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國一丙 J1C",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 1,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -11644,7 +13220,15 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 2,
-    "teacher_name": "白利鍏、田瑞名",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國一丙 J1C",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 2,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -11748,7 +13332,15 @@
     "subject": "彈性學習 B",
     "day": 5,
     "period": 7,
-    "teacher_name": "布提末、安里斯",
+    "teacher_name": "布提末",
+    "room": ""
+  },
+  {
+    "class_name": "國一丙 J1C",
+    "subject": "彈性學習 B",
+    "day": 5,
+    "period": 7,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -11756,7 +13348,15 @@
     "subject": "空白課程",
     "day": 5,
     "period": 8,
-    "teacher_name": "布提末、安里斯",
+    "teacher_name": "布提末",
+    "room": ""
+  },
+  {
+    "class_name": "國一丙 J1C",
+    "subject": "空白課程",
+    "day": 5,
+    "period": 8,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -11812,7 +13412,23 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 7,
-    "teacher_name": "白利鍏、莫達、陳漢玉",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 7,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 7,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -11820,7 +13436,23 @@
     "subject": "空白課程",
     "day": 1,
     "period": 8,
-    "teacher_name": "白利鍏、莫達、陳漢玉",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "空白課程",
+    "day": 1,
+    "period": 8,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "空白課程",
+    "day": 1,
+    "period": 8,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -11876,7 +13508,23 @@
     "subject": "生活科技 A",
     "day": 2,
     "period": 7,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "生活科技 A",
+    "day": 2,
+    "period": 7,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "生活科技 A",
+    "day": 2,
+    "period": 7,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -11884,7 +13532,23 @@
     "subject": "班群活動",
     "day": 2,
     "period": 8,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "班群活動",
+    "day": 2,
+    "period": 8,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "班群活動",
+    "day": 2,
+    "period": 8,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -11956,7 +13620,23 @@
     "subject": "生活科技 A",
     "day": 3,
     "period": 7,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -11964,7 +13644,23 @@
     "subject": "班群活動",
     "day": 3,
     "period": 8,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "班群活動",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "班群活動",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -12052,7 +13748,23 @@
     "subject": "彈性學習 A",
     "day": 5,
     "period": 3,
-    "teacher_name": "白利鍏、莫達、陳漢玉",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "彈性學習 A",
+    "day": 5,
+    "period": 3,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "彈性學習 A",
+    "day": 5,
+    "period": 3,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -12060,7 +13772,23 @@
     "subject": "彈性學習 A",
     "day": 5,
     "period": 4,
-    "teacher_name": "白利鍏、莫達、陳漢玉",
+    "teacher_name": "白利鍏",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "彈性學習 A",
+    "day": 5,
+    "period": 4,
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國一丁 J1D",
+    "subject": "彈性學習 A",
+    "day": 5,
+    "period": 4,
+    "teacher_name": "陳漢玉",
     "room": ""
   },
   {
@@ -12148,7 +13876,15 @@
     "subject": "彈性學習 A",
     "day": 1,
     "period": 7,
-    "teacher_name": "李佩芳、安里斯",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "彈性學習 A",
+    "day": 1,
+    "period": 7,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -12156,7 +13892,15 @@
     "subject": "空白課程",
     "day": 1,
     "period": 8,
-    "teacher_name": "李佩芳、安里斯",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "空白課程",
+    "day": 1,
+    "period": 8,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -12212,7 +13956,23 @@
     "subject": "生活科技 A",
     "day": 2,
     "period": 7,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "生活科技 A",
+    "day": 2,
+    "period": 7,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "生活科技 A",
+    "day": 2,
+    "period": 7,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -12220,7 +13980,23 @@
     "subject": "班群活動",
     "day": 2,
     "period": 8,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "班群活動",
+    "day": 2,
+    "period": 8,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "班群活動",
+    "day": 2,
+    "period": 8,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -12276,7 +14052,23 @@
     "subject": "生活科技 A",
     "day": 3,
     "period": 7,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "生活科技 A",
+    "day": 3,
+    "period": 7,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -12284,7 +14076,23 @@
     "subject": "班群活動",
     "day": 3,
     "period": 8,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "班群活動",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "班群活動",
+    "day": 3,
+    "period": 8,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -12372,7 +14180,15 @@
     "subject": "彈性學習 A",
     "day": 5,
     "period": 3,
-    "teacher_name": "李佩芳、安里斯",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "彈性學習 A",
+    "day": 5,
+    "period": 3,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -12380,7 +14196,15 @@
     "subject": "彈性學習 A",
     "day": 5,
     "period": 4,
-    "teacher_name": "李佩芳、安里斯",
+    "teacher_name": "李佩芳",
+    "room": ""
+  },
+  {
+    "class_name": "國一戊 J1E",
+    "subject": "彈性學習 A",
+    "day": 5,
+    "period": 4,
+    "teacher_name": "安里斯",
     "room": ""
   },
   {
@@ -12468,7 +14292,23 @@
     "subject": "生活科技 A",
     "day": 1,
     "period": 7,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "生活科技 A",
+    "day": 1,
+    "period": 7,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "生活科技 A",
+    "day": 1,
+    "period": 7,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -12476,7 +14316,23 @@
     "subject": "班群活動",
     "day": 1,
     "period": 8,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "班群活動",
+    "day": 1,
+    "period": 8,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "班群活動",
+    "day": 1,
+    "period": 8,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -12516,7 +14372,23 @@
     "subject": "彈性學習 A",
     "day": 2,
     "period": 3,
-    "teacher_name": "史都華、張鳳元、布提末",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "彈性學習 A",
+    "day": 2,
+    "period": 3,
+    "teacher_name": "張鳳元",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "彈性學習 A",
+    "day": 2,
+    "period": 3,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -12524,7 +14396,23 @@
     "subject": "家政",
     "day": 2,
     "period": 4,
-    "teacher_name": "史都華、張鳳元、布提末",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "家政",
+    "day": 2,
+    "period": 4,
+    "teacher_name": "張鳳元",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "家政",
+    "day": 2,
+    "period": 4,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -12644,7 +14532,23 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 3,
-    "teacher_name": "史都華、張鳳元、布提末",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 3,
+    "teacher_name": "張鳳元",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 3,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -12652,7 +14556,23 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 4,
-    "teacher_name": "史都華、張鳳元、布提末",
+    "teacher_name": "史都華",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 4,
+    "teacher_name": "張鳳元",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 4,
+    "teacher_name": "布提末",
     "room": ""
   },
   {
@@ -12676,7 +14596,23 @@
     "subject": "生活科技 A",
     "day": 4,
     "period": 7,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "生活科技 A",
+    "day": 4,
+    "period": 7,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "生活科技 A",
+    "day": 4,
+    "period": 7,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -12684,7 +14620,23 @@
     "subject": "班群活動",
     "day": 4,
     "period": 8,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "班群活動",
+    "day": 4,
+    "period": 8,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一己 J1F",
+    "subject": "班群活動",
+    "day": 4,
+    "period": 8,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -12804,7 +14756,23 @@
     "subject": "生活科技 A",
     "day": 1,
     "period": 7,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "生活科技 A",
+    "day": 1,
+    "period": 7,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "生活科技 A",
+    "day": 1,
+    "period": 7,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -12812,7 +14780,23 @@
     "subject": "班群活動",
     "day": 1,
     "period": 8,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "班群活動",
+    "day": 1,
+    "period": 8,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "班群活動",
+    "day": 1,
+    "period": 8,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -12836,7 +14820,15 @@
     "subject": "彈性學習 A",
     "day": 2,
     "period": 3,
-    "teacher_name": "莫達、田瑞名",
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "彈性學習 A",
+    "day": 2,
+    "period": 3,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -12844,7 +14836,15 @@
     "subject": "家政",
     "day": 2,
     "period": 4,
-    "teacher_name": "莫達、田瑞名",
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "家政",
+    "day": 2,
+    "period": 4,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -12972,7 +14972,15 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 3,
-    "teacher_name": "莫達、田瑞名",
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 3,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -12980,7 +14988,15 @@
     "subject": "彈性學習 A",
     "day": 4,
     "period": 4,
-    "teacher_name": "莫達、田瑞名",
+    "teacher_name": "莫達",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "彈性學習 A",
+    "day": 4,
+    "period": 4,
+    "teacher_name": "田瑞名",
     "room": ""
   },
   {
@@ -13004,7 +15020,23 @@
     "subject": "生活科技 A",
     "day": 4,
     "period": 7,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "生活科技 A",
+    "day": 4,
+    "period": 7,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "生活科技 A",
+    "day": 4,
+    "period": 7,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
@@ -13012,7 +15044,23 @@
     "subject": "班群活動",
     "day": 4,
     "period": 8,
-    "teacher_name": "洪逢駿、張博超、許吳成",
+    "teacher_name": "洪逢駿",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "班群活動",
+    "day": 4,
+    "period": 8,
+    "teacher_name": "張博超",
+    "room": ""
+  },
+  {
+    "class_name": "國一庚 J1G",
+    "subject": "班群活動",
+    "day": 4,
+    "period": 8,
+    "teacher_name": "許吳成",
     "room": ""
   },
   {
