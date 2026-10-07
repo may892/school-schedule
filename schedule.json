@@ -13178,7 +13178,7 @@
   {
     "class_name": "高二甲 H2A",
     "subject": "彈性學習時間",
-    "day": 2,
+    "day": 4,
     "period": 3,
     "teacher_name": "",
     "room": ""
@@ -13186,15 +13186,15 @@
   {
     "class_name": "高二乙 H2B",
     "subject": "彈性學習時間",
-    "day": 2,
+    "day": 4,
     "period": 3,
     "teacher_name": "",
-    "room": "體育場"
+    "room": ""
   },
   {
     "class_name": "高二丙 H2C",
     "subject": "彈性學習時間",
-    "day": 2,
+    "day": 4,
     "period": 3,
     "teacher_name": "",
     "room": ""
@@ -13202,7 +13202,7 @@
   {
     "class_name": "高二丁 H2D",
     "subject": "彈性學習時間",
-    "day": 2,
+    "day": 4,
     "period": 3,
     "teacher_name": "",
     "room": ""
@@ -13210,7 +13210,7 @@
   {
     "class_name": "高二戊 H2E",
     "subject": "彈性學習時間",
-    "day": 2,
+    "day": 4,
     "period": 3,
     "teacher_name": "",
     "room": ""
@@ -13218,7 +13218,7 @@
   {
     "class_name": "高二己 H2F",
     "subject": "彈性學習時間",
-    "day": 2,
+    "day": 4,
     "period": 3,
     "teacher_name": "",
     "room": ""
@@ -13226,15 +13226,15 @@
   {
     "class_name": "高二甲 H2A",
     "subject": "彈性學習時間",
-    "day": 2,
+    "day": 4,
     "period": 4,
     "teacher_name": "",
-    "room": "分組四"
+    "room": ""
   },
   {
     "class_name": "高二乙 H2B",
     "subject": "彈性學習時間",
-    "day": 2,
+    "day": 4,
     "period": 4,
     "teacher_name": "",
     "room": ""
@@ -13242,7 +13242,7 @@
   {
     "class_name": "高二丙 H2C",
     "subject": "彈性學習時間",
-    "day": 2,
+    "day": 4,
     "period": 4,
     "teacher_name": "",
     "room": ""
@@ -13250,7 +13250,7 @@
   {
     "class_name": "高二丁 H2D",
     "subject": "彈性學習時間",
-    "day": 2,
+    "day": 4,
     "period": 4,
     "teacher_name": "",
     "room": ""
@@ -13258,113 +13258,113 @@
   {
     "class_name": "高二戊 H2E",
     "subject": "彈性學習時間",
-    "day": 2,
+    "day": 4,
     "period": 4,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "彈性學習時間",
+    "day": 4,
+    "period": 4,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二甲 H2A",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 5,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二乙 H2B",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 5,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二丙 H2C",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 5,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二丁 H2D",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 5,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二戊 H2E",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 5,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 5,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二甲 H2A",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 6,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二乙 H2B",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 6,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二丙 H2C",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 6,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二丁 H2D",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 6,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二戊 H2E",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 6,
+    "teacher_name": "",
+    "room": ""
+  },
+  {
+    "class_name": "高二己 H2F",
+    "subject": "多元選修",
+    "day": 4,
+    "period": 6,
     "teacher_name": "",
     "room": "音樂教室"
-  },
-  {
-    "class_name": "高二己 H2F",
-    "subject": "彈性學習時間",
-    "day": 2,
-    "period": 4,
-    "teacher_name": "",
-    "room": ""
-  },
-  {
-    "class_name": "高二甲 H2A",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 5,
-    "teacher_name": "",
-    "room": ""
-  },
-  {
-    "class_name": "高二乙 H2B",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 5,
-    "teacher_name": "",
-    "room": ""
-  },
-  {
-    "class_name": "高二丙 H2C",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 5,
-    "teacher_name": "",
-    "room": ""
-  },
-  {
-    "class_name": "高二丁 H2D",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 5,
-    "teacher_name": "",
-    "room": "分組四"
-  },
-  {
-    "class_name": "高二戊 H2E",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 5,
-    "teacher_name": "",
-    "room": ""
-  },
-  {
-    "class_name": "高二己 H2F",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 5,
-    "teacher_name": "",
-    "room": ""
-  },
-  {
-    "class_name": "高二甲 H2A",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 6,
-    "teacher_name": "",
-    "room": ""
-  },
-  {
-    "class_name": "高二乙 H2B",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 6,
-    "teacher_name": "",
-    "room": ""
-  },
-  {
-    "class_name": "高二丙 H2C",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 6,
-    "teacher_name": "",
-    "room": ""
-  },
-  {
-    "class_name": "高二丁 H2D",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 6,
-    "teacher_name": "",
-    "room": "分組四"
-  },
-  {
-    "class_name": "高二戊 H2E",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 6,
-    "teacher_name": "",
-    "room": ""
-  },
-  {
-    "class_name": "高二己 H2F",
-    "subject": "多元選修",
-    "day": 2,
-    "period": 6,
-    "teacher_name": "",
-    "room": ""
   }
 ]
