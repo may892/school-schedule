@@ -2,13 +2,15 @@ let rawData = [];
 let currentMode = 'high'; // 'high' | 'junior' | 'teacher' | 'room'
 let selectedItem = '';
 
-// 初始化：載入 JSON 資料
-fetch('schedule.json')
+const selectEl = document.getElementById('item-select');
+
+// 初始化
+fetch('schedule.json?v=3')
   .then(res => res.json())
   .then(data => {
     rawData = data;
     updateStats();
-    renderSidebar();
+    populateSelect();
   });
 
 // 頁籤切換
@@ -18,14 +20,15 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
     e.target.classList.add('active');
     currentMode = e.target.dataset.mode;
     selectedItem = '';
-    renderSidebar();
+    populateSelect();
     renderSchedule();
   });
 });
 
-// 搜尋過濾
-document.getElementById('search-input').addEventListener('input', (e) => {
-  renderSidebar(e.target.value);
+// 下拉選單變更事件
+selectEl.addEventListener('change', (e) => {
+  selectedItem = e.target.value;
+  renderSchedule();
 });
 
 // 統計全校資料
@@ -46,42 +49,64 @@ function sortClassNames(classList) {
   });
 }
 
-// 取得側邊欄選單項目
-function getFilteredItems() {
-  let items = [];
+// 取得目前 Mode 下的選項清單與排序
+function getOptions() {
   if (currentMode === 'high') {
     const set = new Set(rawData.filter(d => d.class_name && d.class_name.startsWith('高')).map(d => d.class_name));
-    items = sortClassNames(Array.from(set));
+    return sortClassNames(Array.from(set)).map(name => ({ label: name, value: name }));
   } else if (currentMode === 'junior') {
     const set = new Set(rawData.filter(d => d.class_name && d.class_name.startsWith('國')).map(d => d.class_name));
-    items = sortClassNames(Array.from(set));
+    return sortClassNames(Array.from(set)).map(name => ({ label: name, value: name }));
   } else if (currentMode === 'teacher') {
-    const set = new Set(rawData.map(d => d.teacher_name).filter(Boolean));
-    items = Array.from(set).sort((a,b) => a.localeCompare(b, 'zh-Hant'));
+    // 依據「教師代碼 (teacher_order)」進行排序
+    const teacherMap = new Map();
+    rawData.forEach(d => {
+      if (d.teacher_name && !teacherMap.has(d.teacher_name)) {
+        teacherMap.set(d.teacher_name, {
+          name: d.teacher_name,
+          code: d.teacher_code,
+          order: d.teacher_order
+        });
+      }
+    });
+
+    const sortedTeachers = Array.from(teacherMap.values()).sort((a, b) => a.order - b.order);
+    return sortedTeachers.map(t => ({
+      label: `${t.name} (${t.code})`,
+      value: t.name
+    }));
   } else if (currentMode === 'room') {
     const set = new Set(rawData.map(d => d.room).filter(Boolean));
-    items = Array.from(set).sort();
+    const sortedRooms = Array.from(set).sort();
+    return sortedRooms.map(room => ({ label: room, value: room }));
   }
-  return items;
+  return [];
 }
 
-// 渲染側邊欄清單
-function renderSidebar(filterText = '') {
-  const container = document.getElementById('sidebar-list');
-  container.innerHTML = '';
-  const items = getFilteredItems().filter(item => item.toLowerCase().includes(filterText.toLowerCase()));
+// 填入下拉選單選項
+function populateSelect() {
+  selectEl.innerHTML = '';
+  const options = getOptions();
 
-  items.forEach(item => {
-    const btn = document.createElement('button');
-    btn.className = `item-btn ${item === selectedItem ? 'active' : ''}`;
-    btn.innerText = item;
-    btn.onclick = () => {
-      selectedItem = item;
-      renderSidebar(filterText);
-      renderSchedule();
-    };
-    container.appendChild(btn);
+  const defaultOpt = document.createElement('option');
+  defaultOpt.value = '';
+  defaultOpt.innerText = `-- 請選擇 ${getModeLabel()} --`;
+  selectEl.appendChild(defaultOpt);
+
+  options.forEach(opt => {
+    const optionEl = document.createElement('option');
+    optionEl.value = opt.value;
+    optionEl.innerText = opt.label;
+    if (opt.value === selectedItem) optionEl.selected = true;
+    selectEl.appendChild(optionEl);
   });
+}
+
+function getModeLabel() {
+  if (currentMode === 'high') return '高中班級';
+  if (currentMode === 'junior') return '國中班級';
+  if (currentMode === 'teacher') return '教師';
+  if (currentMode === 'room') return '教室';
 }
 
 // 渲染課表
@@ -162,6 +187,6 @@ function jumpTo(mode, target) {
     b.classList.toggle('active', b.dataset.mode === mode);
   });
 
-  renderSidebar();
+  populateSelect();
   renderSchedule();
 }
