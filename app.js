@@ -35,7 +35,7 @@ function updateStats() {
   document.getElementById('stats-info').innerText = `收錄 ${classes} 個班級・${teachers} 位教師`;
 }
 
-// 班級排序函式：提取英文數字代碼 (如 J1A, J1G, H2C) 進行標準排序
+// 班級排序：依據 J1A, J1G, H2C 等英數代碼自然排序
 function sortClassNames(classList) {
   return classList.sort((a, b) => {
     const matchA = a.match(/([JH]\d[A-Z0-9]+)/);
@@ -46,7 +46,7 @@ function sortClassNames(classList) {
   });
 }
 
-// 取得目前 Mode 的項目清單
+// 取得側邊欄選單項目
 function getFilteredItems() {
   let items = [];
   if (currentMode === 'high') {
@@ -84,7 +84,7 @@ function renderSidebar(filterText = '') {
   });
 }
 
-// 渲染課表區
+// 渲染課表
 function renderSchedule() {
   const titleEl = document.getElementById('current-title');
   const tbody = document.getElementById('schedule-body');
@@ -97,42 +97,34 @@ function renderSchedule() {
 
   titleEl.innerText = `${selectedItem} 的課表`;
 
-  // 篩選當前對象的資料
   const filtered = rawData.filter(d => {
     if (currentMode === 'high' || currentMode === 'junior') return d.class_name === selectedItem;
     if (currentMode === 'teacher') return d.teacher_name === selectedItem;
     if (currentMode === 'room') return d.room === selectedItem;
   });
 
-  // 繪製 1~8 節
   for (let period = 1; period <= 8; period++) {
     const tr = document.createElement('tr');
     tr.innerHTML = `<td class="col-period">第 ${period} 節</td>`;
 
     for (let day = 1; day <= 5; day++) {
-      // 找出該節次的所有記錄
       const matches = filtered.filter(d => d.day === day && d.period === period);
       const td = document.createElement('td');
 
-      // 修正點：只要 matches 長度 > 0 且有 subject（課程名稱），不論有沒有老師都予以顯示
       if (matches.length > 0 && matches.some(m => m.subject)) {
-        const subject = matches[0].subject; // 課程名稱
+        const subject = matches[0].subject;
         const room = matches.find(m => m.room)?.room || '';
 
-        // 收集所有教師名稱 (過濾掉空字串)
         const teachers = Array.from(new Set(matches.map(m => m.teacher_name).filter(Boolean)));
-        // 收集所有班級名稱 (過濾掉空字串)
         const classes = Array.from(new Set(matches.map(m => m.class_name).filter(Boolean)));
 
         let linksHtml = '';
 
         if (currentMode === 'high' || currentMode === 'junior') {
-          // 班級查詢：顯示教師 (若有) + 教室 (若有)
           const tLinks = teachers.map(t => `<span class="cell-link" onclick="jumpTo('teacher', '${t}')">${t}</span>`).join(' ');
           const rLink = room ? `<span class="cell-link" onclick="jumpTo('room', '${room}')">${room}</span>` : '';
           linksHtml = `<div class="cell-teachers">${tLinks} ${rLink}</div>`;
         } else if (currentMode === 'teacher') {
-          // 教師查詢：顯示班級 + 教室
           const cLinks = classes.map(c => {
             const targetMode = c.startsWith('國') ? 'junior' : 'high';
             return `<span class="cell-link" onclick="jumpTo('${targetMode}', '${c}')">${c}</span>`;
@@ -140,7 +132,6 @@ function renderSchedule() {
           const rLink = room ? `<span class="cell-link" onclick="jumpTo('room', '${room}')">${room}</span>` : '';
           linksHtml = `<div class="cell-teachers">${cLinks} ${rLink}</div>`;
         } else {
-          // 教室查詢：顯示班級 + 教師 (若有)
           const cLinks = classes.map(c => {
             const targetMode = c.startsWith('國') ? 'junior' : 'high';
             return `<span class="cell-link" onclick="jumpTo('${targetMode}', '${c}')">${c}</span>`;
